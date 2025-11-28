@@ -1,7 +1,7 @@
 agent
 MCP
 N8N
-+大模型
+大模型
 DeepSeek
 bytedance
 gemini
@@ -16,5 +16,10 @@ ipad
 mac
 ios
 ai
-+人工智能
-+机器人
+人工智能
+机器人
+字节跳动
+小米
+雷军
+马斯克
+
